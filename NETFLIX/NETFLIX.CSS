@@ -29,7 +29,9 @@ body {
                 url('https://assets.nflxext.com/ffe/siteui/vlv3/f841d4c7-10e1-40af-bca1-07e3f8eb14af/6a53239e-9907-4222-92a0-4a816719b0f4/IN-en-20220502-popsignuptwoweeks-perspective_alpha_website_large.jpg');
     background-size: cover;
     background-position: center;
-    border-bottom: 8px solid var(--grey-border);
+    border-bottom: 8px solid var;
+    background-color: red;
+    color: white;
 }
 
 .navbar {
